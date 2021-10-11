@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BlogAppFirebase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="asd">asfadsdag</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing In</string>
+    <string name="not_have_an_account_sing_up">Not have an Account? Sing Up</string>
+    <string name="you_have_an_account_sing_in">You have an Account? Sing in</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sing_up">SING UP</string>
+    <string name="home">Home</string>
+    <string name="ifo_user">Profile</string>
+    <string name="upload_photo">Take Photo</string>
+    <string name="username">Username</string>
+    <string name="crreate_profile">Crreate Profile</string>
+    <string name="description">Description</string>
+</resources>

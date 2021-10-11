@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeScreenFragment"
+        android:title="@string/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/cameraScreenFragment"
+        android:title="@string/upload_photo"
+        android:icon="@drawable/ic_add_a_photo_24"
+        />
+    <item
+        android:id="@+id/profileScreenFragment"
+        android:title="@string/ifo_user"
+        android:icon="@drawable/ic_person_24"
+        />
+</menu>
